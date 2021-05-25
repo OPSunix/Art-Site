@@ -15,10 +15,6 @@ body{
     /*Top,Right,Bottom,Left*/
 }
 
-#subtitle{
-    margin-left: 8%;
-}
-
 #blog{
     margin: 0 64px 0 64px;
     background: rgba(255,255,255, 0.7);
